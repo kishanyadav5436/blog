@@ -1,0 +1,56 @@
+# Python
+*.py[cod]
+*$py.class
+__pycache__/
+.pytest_cache/
+.pyre/
+
+# Virtual environments
+env/
+.venv/
+venv/
+ENV/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+*.sqlite3-journal
+media/
+staticfiles/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# pyenv
+.python-version
+
+# IDEs
+*.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Local settings
+local_settings.py
+
+# Coverage
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
